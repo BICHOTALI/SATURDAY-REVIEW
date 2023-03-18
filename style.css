@@ -3,7 +3,7 @@ img {
     border-radius: 25px;
     border: 1px solid black;
 }
-/* add code here to change the color and font family of your band's name/title */
+
 h1 {
     color: #dfb32a;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -29,4 +29,3 @@ p, li {
     font-family: optima, sans-serif;
     color: #dfb32a;
 }
-/* Bonus: change the color of your list elements */
