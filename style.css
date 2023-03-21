@@ -7,13 +7,16 @@ img {
 h1 {
     color: #dfb32a;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 250%
+    font-size: 250%;
+    text-shadow: 8px 5px black;
+
 }
 
 h2, h3 {
     font-size: 140%;
     font-family: didot, serif;
-    color: #ffdd71
+    color: #ffdd71;
+    text-shadow: 2px 2px black;
 
 }
 
@@ -28,4 +31,11 @@ body {
 p, li {
     font-family: optima, sans-serif;
     color: #dfb32a;
+}
+
+ol {
+    border-style:dashed;
+    border-color:rgba(241, 244, 247, 0.574);
+    border-radius: 10px;
+    
 }
